@@ -1,0 +1,6 @@
+[Server Data]
+mode:lobby
+[안내:로비모드라도 플레이어는 월드 밖으로 나가서 죽을 수 있습니다]
+disable:Mob1.png
+disable:Mob2.png
+disable:Player.png
