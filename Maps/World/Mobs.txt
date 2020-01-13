@@ -1,1 +1,2 @@
 Mob1_notmove
+Mob2_notmove
